@@ -1,0 +1,1 @@
++ Je tape la commande `ls -a 05_privacy/` je vois qu'une seule fichier non caché je le lis `cat 05_privacy/README.md` et je constate la cinquième solution.

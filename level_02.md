@@ -1,0 +1,1 @@
++ Je tape ce commande pour voir si y a pas de fichier ou répertoire cacher `ls -a 02/` je constate en premier un répertoire cacher nommée `.porb` je checke `ls -a 02/.porb/` je vois un seul fichier cacher puis je le lis `cat 02/.porb/.solution` je vois bien que la deuxième solution est là.
